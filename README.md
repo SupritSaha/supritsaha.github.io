@@ -1,5 +1,6 @@
 ### Speeding up with data.table
 #### *Suprit Saha*
+#### <supritster@gmail.com>
 
 A common criticism about R especially to users having prior programming experience
 in other languages is that it is **slow**. Although their concerns are valid, one must
